@@ -1,0 +1,14 @@
+com/moderncare/ReactNativeFlipper.java
+ com.ucheed.matc.ReactNativeFlipper
+ com.ucheed.matc.ReactNativeFlipper$1
+ com.ucheed.matc.ReactNativeFlipper$2
+ com.ucheed.matc.ReactNativeFlipper$2$1
+com/moderncare/MainApplication.java
+ com.ucheed.matc.MainApplication
+ com.ucheed.matc.MainApplication$1
+com/ucheed/matc/BuildConfig.java
+ com.ucheed.matc.BuildConfig
+com/moderncare/MainActivity.java
+ com.ucheed.matc.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

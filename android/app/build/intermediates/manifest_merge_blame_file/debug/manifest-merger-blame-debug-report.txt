@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ucheed.matc"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.75.1] /home/hassan/.gradle/caches/transforms-2/files-2.1/b0ccd5373bb0b7eac3b8776ccd0515a8/jetified-flipper-0.75.1/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.75.1] /home/hassan/.gradle/caches/transforms-2/files-2.1/b0ccd5373bb0b7eac3b8776ccd0515a8/jetified-flipper-0.75.1/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+14-->[:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-95
+14-->[:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-92
+15    <uses-permission android:name="com.huawei.systemmanager.permission.ACCESS_INTERFACE" />
+15-->[:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-92
+15-->[:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-89
+16
+17    <application
+17-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:6:5-28:19
+18        android:name="com.ucheed.matc.MainApplication"
+18-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:7:7-38
+19        android:allowBackup="false"
+19-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:11:7-34
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/df087b5e2f442bf511b04dd5f84bb83e/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:9:7-41
+23        android:label="@string/app_name"
+23-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:8:7-39
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:10:7-52
+25        android:theme="@style/AppTheme"
+25-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:12:7-38
+26        android:usesCleartextTraffic="true" >
+26-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/debug/AndroidManifest.xml:8:9-44
+27        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+27-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/debug/AndroidManifest.xml:11:9-86
+27-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/debug/AndroidManifest.xml:11:19-83
+28
+29        <meta-data
+29-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:13:7-16:11
+30            android:name="com.facebook.sdk.ApplicationId"
+30-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:14:7-52
+31            android:value="@string/facebook_app_id" />
+31-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:15:3-42
+32
+33        <activity
+33-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:17:7-27:18
+34            android:name="com.ucheed.matc.MainActivity"
+34-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:18:9-37
+35            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+35-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:20:9-86
+36            android:label="@string/app_name"
+36-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:19:9-41
+37            android:launchMode="singleTask"
+37-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:21:9-40
+38            android:windowSoftInputMode="adjustResize" >
+38-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:22:9-51
+39            <intent-filter>
+39-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:23:9-26:25
+40                <action android:name="android.intent.action.MAIN" />
+40-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:24:13-65
+40-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:24:21-62
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:25:13-73
+42-->/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:25:23-70
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>
