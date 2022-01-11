@@ -69,7 +69,7 @@ const PaymentScreen = props => {
           <Image style={styles.logo} source={require('../MATC-colored.png')} />
           <Text style={styles.name}>Payment Info</Text>
         </View>
-        <ScrollView style={styles.container}>
+        <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
           <View style={styles.radioButtonContainer}>
             <View style={{flexDirection: 'row', alignItems: 'center'}}>
               <RadioButton

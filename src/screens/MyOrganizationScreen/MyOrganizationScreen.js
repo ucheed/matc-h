@@ -45,32 +45,34 @@ const OrganizationBooking = props => {
         'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaG9zdC51Y2hlZWQuY29tXC93b3JkcHJlc3NfdGVzdGluZyIsImlhdCI6MTY0MTQ1Nzk0NywibmJmIjoxNjQxNDU3OTQ3LCJleHAiOjE2NDIwNjI3NDcsImRhdGEiOnsidXNlciI6eyJpZCI6OCwiZGV2aWNlIjoiIiwicGFzcyI6ImE3N2EzMDlkNGUxY2UwN2YxNDJmZTY5Y2JmMTU3ZDEwIn19fQ.-L54jkezayvdgPrEvEWpsM1jBzm8tyrOA7l5VGZYBZY',
     },
   });
-  console.log("Userdata",userData.token);
+  // console.log("Userdata",userData.token);
 
   useEffect(() => {
     let thisMonth = new Date().toISOString().split('T')[0];
     thisMonth = thisMonth.substring(0, thisMonth.length - 3);
-
+   
     monthChangeHandler(thisMonth);
   }, []);
 
   useEffect(() => {
     if (selected) {
       const keys = Object.keys(selected);
+      console.log("keyyyy",keys[0].slice(8,10))
       instance1
         .post('timings', {
-          selected_date: keys[0],
-          // doctor_address_id: doctorId,
+          month: keys[0].slice(5,7) ,
+          year: keys[0].slice(0,4) ,
+          day: keys[0].slice(8,10)
         })
         .then(response => {
-          if (!response.data.data[0].available_timings) {
+          if (response.data.data.available_timings==0) {
             setAvailableTimes([]);
           } else {
-            const times = response.data.data[4].available_timings.map(item => {
+            const times = response.data.data.available_timings.map(item => {
               return {id: item.id, time: item.from};
             });
             console.log('times', times);
-
+            console.log('response', response.data);
             setAvailableTimes(times);
           }
         });
@@ -78,21 +80,21 @@ const OrganizationBooking = props => {
   }, [selected]);
 
   const monthChangeHandler = monthDate => {
+    console.log("thismonth",monthDate.slice(0,4))
     instance1
-      .get('timings', {
-        // month: monthDate,
-
-        // doctor_address_id: doctorId,
-        all_month: true,
+      .post('timings', {
+        month: monthDate.slice(5,7) ,
+        year: monthDate.slice(0,4) ,
       })
       .then(res => {
         const dates = {};
+        console.log("monthh dataattata",res.data.data[2])
         res.data.data.forEach(date => {
           if (date.available_timings == 0) {
-            dates[date.date] = {selected: false, marked: false};
+            
             setAvailableTimes([]);
-            setTime('');
-            setTimeId('');
+            // setTime('');
+            // setTimeId('');
           } else {
             dates[date.date] = {selected: false, marked: true};
             setMarkedDates(dates);
@@ -145,8 +147,8 @@ const OrganizationBooking = props => {
     const selectedDate = keys[0];
 
     navigation.navigate('AppointmentForm', {
-      // selectedDate,
-      // timeId,
+      selectedDate,
+      timeId,
       // clinicId,
     });
   };
@@ -163,10 +165,10 @@ const OrganizationBooking = props => {
           />
         </View>
         <View style={styles.bookingContainer}>
-          <Text style={styles.name}>ORGANIZATION Name</Text>
-          <Text style={styles.spec} numberOfLines={1}>
+          <Text style={styles.name}>{userData.organization.name}</Text>
+          {/* <Text style={styles.spec} numberOfLines={1}>
             ORGANIZATION DETAILS
-          </Text>
+          </Text> */}
           <View style={styles.calendarWrapper}>
             <Calendar
               theme={{
@@ -200,7 +202,7 @@ const OrganizationBooking = props => {
                     delete x[key];
 
                     if (availableTimes.length !== 0) {
-                      x[key] = {selected: false, marked: false};
+                      x[key] = {selected: false, marked: true};
                     }
                   }
 

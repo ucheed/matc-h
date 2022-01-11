@@ -15,11 +15,11 @@ const Menu = props => {
       <IconButton
         icon="menu"
         color={'black'}
-        size={25}
+        size={30}
         style={{alignSelf: 'flex-end'}}
         onPress={props.handleCloseMiniCart}
       />
-      <View style={{height: '25%'}}></View>
+      <View style={{height: '15%'}}></View>
       <View
         style={{
           flex: 1,
@@ -30,7 +30,7 @@ const Menu = props => {
         <TouchableOpacity
           onPress={() => {
             props.handleCloseMiniCart();
-            navigation.navigate('HomeScreen');
+            navigation.navigate('BottomNav');
           }}>
           <Text style={styles.menuItem}>Home</Text>
         </TouchableOpacity>
@@ -59,6 +59,7 @@ const Menu = props => {
         </TouchableOpacity>
         <TouchableOpacity
           onPress={() => {
+            props.handleCloseMiniCart();
             navigation.navigate('OrganizationID');
           }}>
           <Text style={styles.menuItem}>Your Code</Text>
@@ -76,8 +77,10 @@ const Menu = props => {
   );
 };
 
-const mapStateToProps = state => {
-  return {};
+const mapStateToProps = (state) => {
+  return {
+    store: state  
+  };
 };
 
 const mapDispatchToProps = dispatch => {

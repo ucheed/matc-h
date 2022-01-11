@@ -1,0 +1,1330 @@
+[
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ni.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ni.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ve.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ve.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ug.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ug.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sl.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sl.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gy.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gy.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_src_provider_countries.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/src_provider_countries.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bi.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bi.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_my.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_my.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ax.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ax.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_icon128.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_icon128.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_it.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_it.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pt.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pt.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_zw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_zw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ml.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ml.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cf.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cf.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_kp.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_kp.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cv.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cv.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ec.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ec.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tv.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tv.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_fo.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_fo.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_hu.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_hu.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_th.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_th.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gi.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gi.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_kr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_kr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ch.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ch.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_de.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_de.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_vc.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_vc.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mx.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mx.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_id.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_id.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sy.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sy.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_doctors_icon1.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_doctors_icon1.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_la.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_la.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ng.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ng.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ir.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ir.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pe.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pe.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_be.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_be.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bh.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bh.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_by.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_by.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ps.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ps.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_paymentscreen_paypal.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_paymentscreen_paypal.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_matccolored.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_matccolored.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_lc.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_lc.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_doctors_icon2.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_doctors_icon2.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bs.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bs.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_iq.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_iq.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ph.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ph.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_jo.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_jo.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bl.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bl.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ionicons_call.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ionicons_call.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ma.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ma.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tt.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tt.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sa.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sa.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ly.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ly.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ht.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ht.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_au.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_au.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sh.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sh.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ke.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ke.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sb.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sb.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_us.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_us.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cc.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cc.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_nu.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_nu.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_at.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_at.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bf.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bf.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ci.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ci.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_paymentscreen_creditcards.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_paymentscreen_creditcards.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_li.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_li.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_fr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_fr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_uy.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_uy.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gu.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gu.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mv.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mv.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ee.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ee.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_lb.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_lb.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ls.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ls.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_jm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_jm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_hn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_hn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_vu.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_vu.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cd.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cd.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_co.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_co.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mf.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mf.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mq.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mq.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ai.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ai.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_td.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_td.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_to.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_to.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_dm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_dm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ge.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ge.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ao.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ao.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_br.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_br.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_nc.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_nc.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_doctors_icon3.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_doctors_icon3.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cu.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cu.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_lt.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_lt.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_az.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_az.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_nz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_nz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_qa.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_qa.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ro.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ro.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ie.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ie.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sx.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sx.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tj.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tj.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ws.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ws.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_fm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_fm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gp.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gp.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ba.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ba.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ki.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ki.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ionicons_linkedin.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ionicons_linkedin.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ss.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ss.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_kw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_kw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_np.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_np.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ye.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ye.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ru.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ru.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_lu.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_lu.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_dk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_dk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_eh.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_eh.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ms.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ms.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_in.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_in.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ar.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ar.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_se.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_se.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_icon114.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_icon114.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_md.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_md.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_auth_matccolored.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_auth_matccolored.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_dz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_dz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ua.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ua.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_na.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_na.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_st.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_st.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ad.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ad.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_lv.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_lv.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_im.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_im.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_no.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_no.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_apisauce_node_modules_axios_package.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_apisauce_node_modules_axios_package.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gd.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gd.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ionicons_instagram.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ionicons_instagram.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_rw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_rw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_me.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_me.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_nr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_nr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_yt.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_yt.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gt.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gt.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_za.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_za.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_vn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_vn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sc.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sc.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_re.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_re.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_kg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_kg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_doctors_icon4.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_doctors_icon4.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bq.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bq.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_hr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_hr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_rs.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_rs.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gq.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gq.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mp.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mp.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mu.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mu.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bb.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bb.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_et.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_et.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_py.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_py.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tc.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tc.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_om.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_om.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cy.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cy.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_vi.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_vi.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gf.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gf.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_as.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_as.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_io.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_io.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_il.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_il.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ae.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ae.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ck.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ck.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_icons_padlock.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_icons_padlock.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mo.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mo.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ag.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ag.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cx.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cx.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_wf.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_wf.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_es.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_es.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_fj.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_fj.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mh.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mh.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_icon1962.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_icon1962.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ne.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ne.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bd.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bd.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sv.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sv.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_do.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_do.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_lr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_lr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_fi.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_fi.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_nl.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_nl.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pa.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pa.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_uz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_uz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_so.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_so.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ga.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ga.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_kz.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_kz.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_am.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_am.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ks.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ks.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_hk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_hk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gh.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gh.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_fk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_fk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_jp.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_jp.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_km.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_km.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_zm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_zm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_si.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_si.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bt.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bt.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_va.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_va.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_ionicons_facebook.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ionicons_facebook.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tl.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tl.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bj.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bj.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gb.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gb.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ky.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ky.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sj.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sj.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_gm.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_gm.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_kn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_kn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_is.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_is.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_er.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_er.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cl.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cl.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pf.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pf.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_vg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_vg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_aw.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_aw.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_af.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_af.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_kh.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_kh.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_lk.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_lk.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mn.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mn.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_dj.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_dj.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_je.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_je.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_cr.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_cr.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_ca.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_ca.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_nf.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_nf.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_bo.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_bo.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_eg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_eg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mt.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mt.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_mc.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_mc.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_sd.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_sd.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_al.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_al.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_pl.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_pl.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_global_elements_countries_images_tg.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_global_elements_countries_images_tg.png"
+    },
+    {
+        "merged": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_screens_icon100.png.flat",
+        "source": "/home/hassan/Desktop/Ucheed/matc-react-native/android/app/build/generated/res/react/release/drawable-mdpi/src_screens_icon100.png"
+    }
+]

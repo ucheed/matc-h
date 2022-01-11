@@ -6,14 +6,14 @@ import HomeScreen from './HomeScreen';
 import {useSelector} from 'react-redux';
 import MyHealthScreen from './MyHealthScreen/MyHealthScreen';
 import MyOrganizationScreen from './MyOrganizationScreen/MyOrganizationScreen';
+import Organizationhome from './MyOrganizationScreen/Organizationhome';
 const HomeScreenRoute = () => <HomeScreen />;
 const MyHealthRoute = () => <MyHealthScreen />;
-const MyOrganizationRoute = () => <MyOrganizationScreen />;
+const MyOrganizationRoute = () => <Organizationhome />;
 const BottomNav = () => {
   const [userData] = useState(useSelector(state => state.usr.userData));
   console.log('userrrrrr', userData.organization);
-  const exists =
-    userData && userData.organization;
+  const exists =userData.organization;
   // const [exists,setExists] = useState ({userData.organization});
   // const exists =
   // console.log('exissss', exists);

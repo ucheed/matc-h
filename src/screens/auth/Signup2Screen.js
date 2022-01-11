@@ -10,11 +10,14 @@ import {
 } from 'react-native';
 import {Button, Modal} from 'react-native-paper';
 import {useRoute} from '@react-navigation/native';
+import {useSelector} from 'react-redux';
+
 import {ScrollView} from 'react-native-gesture-handler';
 import DropDownPicker from 'react-native-dropdown-picker';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import Spinner from 'react-native-loading-spinner-overlay';
 import CountryCodePicker from '../../global/elements/countries/CountryCodePicker';
+import axios from 'axios';
 
 import {Dimensions} from 'react-native';
 const windowWidth = Dimensions.get('window').width;
@@ -23,11 +26,12 @@ const windowHeight = Dimensions.get('window').height;
 import authApi from '../../provider/api/auth';
 import * as actionTypes from '../../store/actions';
 
-const Signup2Screen = props => {
+const Signup2Screen = ({navigation}) => {
   const route = useRoute();
-
+  const [userData] = useState(useSelector(state => state.usr.userData));
   const [date, setDate] = useState(new Date());
-  const [phone, setPhone] = useState('');
+  const [country, setcountry] = useState('');
+  const [height, setheight] = useState('');
   const [spinner, setSpinner] = useState(false);
   const [countryCode, setCountryCode] = useState('961');
   const [modalText, setModalText] = useState('');
@@ -38,8 +42,8 @@ const Signup2Screen = props => {
   const [pickerOpen, setPickerOpen] = useState(false);
   const [gender, setGender] = useState('M');
   const [items, setItems] = useState([
-    {label: 'Male', value: 'M'},
-    {label: 'Female', value: 'F'},
+    {label: 'Male', value: 'Male'},
+    {label: 'Female', value: 'Female'},
   ]);
 
   const showModal = () => setModalVisible(true);
@@ -55,49 +59,86 @@ const Signup2Screen = props => {
     if (!gender) {
       return;
     }
-    if (!phone) {
+    if (!country) {
+      return;
+    }
+    if (!height) {
       return;
     }
 
     setSpinner(true);
     const dob = date.toISOString().substring(0, 10);
 
-    const data = {
-      first_name: route.params.first_name,
-      last_name: route.params.last_name,
-      email: route.params.email,
-      date_of_birth: dob,
-      password: route.params.password,
-      mobile_phone_number: countryCode + phone,
-      gender: gender,
-      country_id: '1',
-      currency_id: '1',
-      language_id: '1',
-      city_id: '1',
-      address: 'main road',
-      blood_group: 'A+',
-      weight: '90',
-      height: '170',
-    };
+    // const data = {
+    //   first_name: route.params.first_name,
+    //   last_name: route.params.last_name,
+    //   // email: route.params.email,
+    //   // date_of_birth: dob,
+    //   // password: route.params.password,
+    //   // mobile_country_number: countryCode + country,
+    //   gender: gender,
+    //   country: 'london',
+    //   // currency_id: '1',
+    //   // language_id: '1',
+    //   // city_id: '1',
+    //   // address: 'main road',
+    //   // blood_group: 'A+',
+    //   // weight: '90',
+    //   height: '170',
+    // };
+const instance1 = axios.create({
+  baseURL:
+    'https://host.ucheed.com/wordpress_testing/wp-json/ucheed-json/v1/',
+  timeout: 10000,
+  headers: {
+    Authorization:
+      `Bearer ${userData.token}`,
+  },
+});
 
-    try {
-      const response = await authApi.register(data);
 
-      if (response.data.status !== 'failed') {
-        setSpinner(false);
-        data.token = response.data.data.token;
-        props.storeUserData(data);
-        props.navigation.replace('BottomNav');
-      } else {
-        setModalText(response.data.message);
-        setSpinner(false);
-        showModal();
-      }
-    } catch (error) {
-      console.log(error);
-      setModalText('An error occured');
-      showModal();
-    }
+instance1
+.put('patients/self', {
+  first_name: 'Charbel',
+  last_name: 'Cahrbel',
+  mobile:'719166741',
+  user_info:{gender: gender,
+  height: height,
+  country: country,
+  }
+})
+.then(response => {
+  setSpinner(false);
+  console.log("console",response.data)
+  if (response.data.data.user_info) {
+    navigation.replace('BottomNav');
+  } else {
+    setSpinner(false);
+  navigation.replace('Signup2Screen');
+  }
+
+  
+  
+});
+    // try {
+    //   const response = await authApi.signup(data);
+    //   console.log("response signup page",response.data)
+
+    //   if (response.data.status !== 'failed') {
+    //     setSpinner(false);
+    //     data.token = response.data.data.token;
+    //     props.storeUserData(data);
+    //     props.navigation.replace('BottomNav');
+    //   } else {
+    //     setModalText(response.data.message);
+    //     setSpinner(false);
+    //     showModal();
+    //   }
+    // } catch (error) {
+    //   console.log(error);
+    //   setModalText('An error occured');
+    //   showModal();
+    // }
   };
 
   return (
@@ -159,22 +200,33 @@ const Signup2Screen = props => {
           <View style={styles.line} />
           <View style={{flex: 1, flexDirection: 'row'}}>
             <View style={{marginTop: 10}}>
-              <CountryCodePicker
+              {/* <CountryCodePicker
                 direction={'ltr'}
                 selectedCountry={'lb'}
                 onCountrySelected={country => {
                   setCountryCode(country.dialCode);
                 }}
-              />
+              /> */}
             </View>
+            <View>
             <TextInput
-              value={phone}
+              value={country}
+              // keyboardType="numeric"
+              style={styles.placeholder}
+              placeholder="Country"
+              placeholderTextColor="black"
+              onChangeText={val => setcountry(val)}
+            />
+            
+              <TextInput
+              value={height}
               keyboardType="numeric"
               style={styles.placeholder}
-              placeholder="Mobile"
+              placeholder="Height in m"
               placeholderTextColor="black"
-              onChangeText={val => setPhone(val)}
+              onChangeText={val => setheight(val)}
             />
+            </View>
           </View>
           <View style={styles.line} />
           <Button onPress={handleSubmitPress} style={styles.button}>

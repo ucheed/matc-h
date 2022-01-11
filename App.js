@@ -34,16 +34,24 @@ import PaymentScreen from './src/screens/PaymentScreen/PaymentScreen';
 import OrganizationBooking from './src/screens/MyOrganizationScreen/MyOrganizationScreen';
 import userReducer from './src/store/reducers/user.reducer';
 import OrganizationID from './src/screens/OrganizationID/OrganizationID';
-const rootReducer = combineReducers({
+import Organizationhome from './src/screens/MyOrganizationScreen/Organizationhome';
+
+const appReducer = combineReducers({
   usr: userReducer,
 });
+// const rootReducer = (state, action) => {
+//   if (action.type === 'CLEAR_USER_DATA') {
+//     return appReducer(undefined, action)
+//   }
 
+//   return appReducer(state, action)
+// }
 const persistConfig = {
   key: 'root',
   storage: AsyncStorage,
 };
 
-const persistedReducer = persistReducer(persistConfig, rootReducer);
+const persistedReducer = persistReducer(persistConfig, appReducer);
 
 export const store = createStore(persistedReducer);
 export const persistor = persistStore(store);
@@ -64,6 +72,7 @@ export default function App() {
               <Stack.Screen name="BottomNav" component={BottomNav} />
               <Stack.Screen name="DoctorsScreen" component={DoctorsScreen} />
               <Stack.Screen name="OrganizationID" component={OrganizationID} />
+              <Stack.Screen name="Organizationhome" component={Organizationhome} />
               <Stack.Screen
                 name="DoctorDetails"
                 component={DoctorDetailsScreen}

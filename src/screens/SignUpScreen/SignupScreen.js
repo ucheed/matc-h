@@ -3,32 +3,36 @@ import {Image, Text, TextInput, TouchableOpacity, View} from 'react-native';
 import {Button} from 'react-native-paper';
 import {ScrollView} from 'react-native-gesture-handler';
 import {Modal} from 'react-native-paper';
-
+import authApi from '../../provider/api/auth';
 import styles from './SignUpScreen.style';
 
 const SignupScreen = props => {
   // const [email, setEmail] = useState('hrag.h@Hotmail.com');
-  // const [fname, setFname] = useState('hrag');
-  // const [lname, setLname] = useState('hayrabedian');
+  // const [first_name, setfirst_name] = useState('hrag');
+  // const [last_name, setlast_name] = useState('hayrabedian');
   // const [password, setPassword] = useState('password');
   // const [c_password, setCpassword] = useState('password');
 
   const [email, setEmail] = useState('');
-  const [fname, setFname] = useState('');
-  const [lname, setLname] = useState('');
+  const [first_name, setfirst_name] = useState('');
+  const [last_name, setlast_name] = useState('');
+  const [mobile, setmobile] = useState('');
   const [password, setPassword] = useState('');
-  const [c_password, setCpassword] = useState('');
+  // const [c_password, setCpassword] = useState('');
   const [visible, setVisible] = useState(false);
   const [modalText, setModalText] = useState('');
 
   const showModal = () => setVisible(true);
   const hideModal = () => setVisible(false);
-
-  const handlePress = () => {
-    if (!fname) {
+ 
+  const handlePress = async () => {
+    if (!first_name) {
       return;
     }
-    if (!lname) {
+    if (!last_name) {
+      return;
+    }
+    if (!mobile) {
       return;
     }
     if (!email) {
@@ -37,18 +41,39 @@ const SignupScreen = props => {
     if (!password) {
       return;
     }
-    if (c_password !== password) {
-      setModalText('Passwords must be the same');
-      showModal();
-      return;
-    }
+    // if (c_password !== password) {
+    //   setModalText('Passwords must be the same');
+    //   showModal();
+    //   return;
+    // }
+    const data = {
+      first_name:first_name,
+      last_name:last_name,
+      mobile:mobile,
+      email:email,
+      password:password,
+    };
 
-    props.navigation.navigate('Signup2Screen', {
-      first_name: fname,
-      last_name: lname,
-      email: email,
-      password: password,
-    });
+    try {
+      const response = await authApi.register(data);
+      console.log("resppppp",response.data)
+      if (response.data.message==="success") {
+        // props.storeUserData(response.data.data);
+        props.navigation.replace('LoginScreen');
+      } else {
+        setModalText('Wrong Credetials Inputs');
+        showModal(true);
+      }
+    } catch (error) {
+      console.log(error);
+      setModalText('Server error');
+    }
+    // props.navigation.navigate('Signup2Screen', {
+    //   first_name: first_name,
+    //   last_name: last_name,
+    //   email: email,
+    //   password: password,
+    // });
   };
 
   return (
@@ -71,19 +96,19 @@ const SignupScreen = props => {
           />
           <View style={styles.line} />
           <TextInput
-            value={fname}
+            value={first_name}
             style={styles.placeholder}
             placeholder="First Name"
             placeholderTextColor="black"
-            onChangeText={val => setFname(val)}
+            onChangeText={val => setfirst_name(val)}
           />
           <View style={styles.line} />
           <TextInput
-            value={lname}
+            value={last_name}
             style={styles.placeholder}
             placeholder="Last Name"
             placeholderTextColor="black"
-            onChangeText={val => setLname(val)}
+            onChangeText={val => setlast_name(val)}
           />
           <View style={styles.line} />
           <TextInput
@@ -96,12 +121,12 @@ const SignupScreen = props => {
           />
           <View style={styles.line} />
           <TextInput
-            value={c_password}
+            value={mobile}
             secureTextEntry={true}
             style={styles.placeholder}
-            placeholder="Confirm Password"
+            placeholder="mobile"
             placeholderTextColor="black"
-            onChangeText={val => setCpassword(val)}
+            onChangeText={val => setmobile(val)}
           />
           <View style={styles.line} />
           <Button onPress={handlePress} style={styles.button}>

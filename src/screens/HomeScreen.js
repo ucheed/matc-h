@@ -35,13 +35,13 @@ const HomeScreen = props => {
           <IconButton
             icon="menu"
             color={'black'}
-            size={25}
+            size={30}
             style={{alignSelf: 'flex-end'}}
             onPress={() => setShowMenu(true)}
           />
           <Image style={styles.logo} source={require('./MATC-colored.png')} />
           <Text style={styles.name}>
-            HELLO {userData.first_name.toUpperCase()},
+            HELLO {userData.first_name.toUpperCase()}
           </Text>
           <Text style={styles.welcome}>How can we take care of you?</Text>
         </View>

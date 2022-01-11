@@ -22,8 +22,8 @@ const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
 
 function LoginScreen(props) {
-  const [username, setUsername] = useState('joe.roberts@matc.com');
-  const [password, setPassword] = useState('joe.roberts@matc.com');
+  const [username, setUsername] = useState('charbel@gmail.com1');
+  const [password, setPassword] = useState('1234567891');
 
   // const [phone, setPhone] = useState('');
   // const [password, setPassword] = useState('');
@@ -36,11 +36,11 @@ function LoginScreen(props) {
   const showModal = () => setVisible(true);
   const hideModal = () => setVisible(false);
 
-  useEffect(() => {
-    if (userData.token) {
-      props.navigation.replace('BottomNav');
-    }
-  }, []);
+  // useEffect(() => {
+  //   if (userData.token) {
+  //     props.navigation.replace('BottomNav');
+  //   }
+  // }, []);
 
   const handleSubmitPress = async () => {
     if (!username) {
@@ -52,17 +52,22 @@ function LoginScreen(props) {
 
     setSpinner(true);
     const data = {
-      username:username,
-      password:password,
+      username: username,
+      password: password,
     };
 
     try {
       const response = await authApi.login(data);
-      console.log("resppppp",response.data)
+      console.log('resppppp', response.data.success);
       if (response.data.success) {
         setSpinner(false);
         props.storeUserData(response.data.data);
-        props.navigation.replace('BottomNav');
+
+        if (response.data.data.user_info === null) {
+          props.navigation.replace('Signup2Screen');
+        } else {
+          props.navigation.replace('BottomNav');
+        }
       } else {
         setModalText('Either your username or password is incorrect');
         setSpinner(false);
@@ -93,20 +98,20 @@ function LoginScreen(props) {
           <Text style={styles.title}>LOGIN</Text>
           <View style={{flex: 1, flexDirection: 'row'}}>
             <View style={{marginTop: 10}}>
-              <CountryCodePicker
+              {/* <CountryCodePicker
                 direction={'ltr'}
                 selectedCountry={'lb'}
                 onCountrySelected={country => {
                   setCountryCode(country.dialCode);
                 }}
-              />
+              /> */}
             </View>
             <TextInput
               value={username}
               style={styles.placeholder}
               placeholder="username"
               placeholderTextColor="black"
-              keyboardType="phone-pad"
+              // keyboardType="phone-pad"
               onChangeText={username => setUsername(username)}
             />
           </View>

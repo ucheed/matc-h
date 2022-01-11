@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-async-storage_async-storage] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-document-picker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-i18n] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-i18n/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-localize] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-localize/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-safe-area-context] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.64.2] /home/hassan/.gradle/caches/transforms-2/files-2.1/d1ec93b89ff5037f3f5e4741733617ec/jetified-react-native-0.64.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /home/hassan/.gradle/caches/transforms-2/files-2.1/b30d95ac8adb74ead0f0dadece1bcccd/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/bac803d9c28c3b98678fe3f527505e69/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/21e1699138e4e4da2df2898493686baa/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/dad0d3ecbc0cb1a796e36f1f36c31f68/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/1bf189af8a094b3cde32f961e2b7129a/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/16d7f450378152fe2cb4866ef66b2004/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/912398e7d41bef8d5820ed98ee920315/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/dcabf14c7b1ff12a3b94b68f1ff47148/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/7a27e2ef6434a8ca279d7942cec560ed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/de19633010f32b2bde725b4cb57c6084/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d96e9633c570af95078689214d7fcf1f/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/afcc9b0dfbcc1bc473f166c74fb2e963/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d069af392a46560179b53445d8c62ad1/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/4c023e84682f7797dbf09716cc63be86/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/hassan/.gradle/caches/transforms-2/files-2.1/b55900612c53bbdfb0ca56f4470948f7/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/eb1af8f1493225341620214c24755800/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/a3c7a727e6f98c13288fc7aebf51ca88/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/c8925b41f4a20a47760feaff8220048e/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/21b3d769fdb43271e60829527c256d88/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/20c1eeb79dd8f8c8b0aab8c08c59d834/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/df087b5e2f442bf511b04dd5f84bb83e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/ee32a41b299ebcf4e78d691344f52243/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/23c09b64eca157197e79768ebbeca4df/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/2a2a39c450de65bb311f2f4b7ae140da/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/31c5a9d741217c1f32107f5a83ea7081/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/597822b5f1d6b2ae8477c0a08baab41d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/194f0a18b2b3f1b16744a232ed855690/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/e07e114cb47d0c60a85ca2367f8a128b/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/6f85139386be3cfc4daa1366b8257245/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [:react-native-community_datetimepicker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.64.2] /home/hassan/.gradle/caches/transforms-2/files-2.1/d1ec93b89ff5037f3f5e4741733617ec/jetified-react-native-0.64.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.2] /home/hassan/.gradle/caches/transforms-2/files-2.1/d1ec93b89ff5037f3f5e4741733617ec/jetified-react-native-0.64.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/bac803d9c28c3b98678fe3f527505e69/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/bac803d9c28c3b98678fe3f527505e69/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d96e9633c570af95078689214d7fcf1f/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d96e9633c570af95078689214d7fcf1f/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/df087b5e2f442bf511b04dd5f84bb83e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/df087b5e2f442bf511b04dd5f84bb83e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/ee32a41b299ebcf4e78d691344f52243/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/ee32a41b299ebcf4e78d691344f52243/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/df087b5e2f442bf511b04dd5f84bb83e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:7:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:13:7-16:11
+	android:value
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:15:3-42
+	android:name
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:14:7-52
+activity#com.ucheed.matc.MainActivity
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:17:7-27:18
+	android:label
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:launchMode
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:21:9-40
+	android:windowSoftInputMode
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:20:9-86
+	android:name
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml:25:23-70
+uses-sdk
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-async-storage_async-storage] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-i18n/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-i18n/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-localize/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-localize/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.64.2] /home/hassan/.gradle/caches/transforms-2/files-2.1/d1ec93b89ff5037f3f5e4741733617ec/jetified-react-native-0.64.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] /home/hassan/.gradle/caches/transforms-2/files-2.1/d1ec93b89ff5037f3f5e4741733617ec/jetified-react-native-0.64.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/hassan/.gradle/caches/transforms-2/files-2.1/b30d95ac8adb74ead0f0dadece1bcccd/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/hassan/.gradle/caches/transforms-2/files-2.1/b30d95ac8adb74ead0f0dadece1bcccd/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/bac803d9c28c3b98678fe3f527505e69/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/bac803d9c28c3b98678fe3f527505e69/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/21e1699138e4e4da2df2898493686baa/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/21e1699138e4e4da2df2898493686baa/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/dad0d3ecbc0cb1a796e36f1f36c31f68/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/dad0d3ecbc0cb1a796e36f1f36c31f68/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/1bf189af8a094b3cde32f961e2b7129a/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/1bf189af8a094b3cde32f961e2b7129a/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/16d7f450378152fe2cb4866ef66b2004/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/16d7f450378152fe2cb4866ef66b2004/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/912398e7d41bef8d5820ed98ee920315/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/912398e7d41bef8d5820ed98ee920315/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/dcabf14c7b1ff12a3b94b68f1ff47148/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/dcabf14c7b1ff12a3b94b68f1ff47148/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/7a27e2ef6434a8ca279d7942cec560ed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/7a27e2ef6434a8ca279d7942cec560ed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/de19633010f32b2bde725b4cb57c6084/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/de19633010f32b2bde725b4cb57c6084/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d96e9633c570af95078689214d7fcf1f/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d96e9633c570af95078689214d7fcf1f/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/afcc9b0dfbcc1bc473f166c74fb2e963/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/afcc9b0dfbcc1bc473f166c74fb2e963/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d069af392a46560179b53445d8c62ad1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/d069af392a46560179b53445d8c62ad1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/4c023e84682f7797dbf09716cc63be86/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/4c023e84682f7797dbf09716cc63be86/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/hassan/.gradle/caches/transforms-2/files-2.1/b55900612c53bbdfb0ca56f4470948f7/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/hassan/.gradle/caches/transforms-2/files-2.1/b55900612c53bbdfb0ca56f4470948f7/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/eb1af8f1493225341620214c24755800/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/eb1af8f1493225341620214c24755800/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/a3c7a727e6f98c13288fc7aebf51ca88/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/a3c7a727e6f98c13288fc7aebf51ca88/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/c8925b41f4a20a47760feaff8220048e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/c8925b41f4a20a47760feaff8220048e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/21b3d769fdb43271e60829527c256d88/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/21b3d769fdb43271e60829527c256d88/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/20c1eeb79dd8f8c8b0aab8c08c59d834/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/20c1eeb79dd8f8c8b0aab8c08c59d834/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/df087b5e2f442bf511b04dd5f84bb83e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/df087b5e2f442bf511b04dd5f84bb83e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/ee32a41b299ebcf4e78d691344f52243/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/ee32a41b299ebcf4e78d691344f52243/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/23c09b64eca157197e79768ebbeca4df/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/23c09b64eca157197e79768ebbeca4df/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/2a2a39c450de65bb311f2f4b7ae140da/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/2a2a39c450de65bb311f2f4b7ae140da/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/31c5a9d741217c1f32107f5a83ea7081/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/31c5a9d741217c1f32107f5a83ea7081/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/597822b5f1d6b2ae8477c0a08baab41d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/597822b5f1d6b2ae8477c0a08baab41d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/194f0a18b2b3f1b16744a232ed855690/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/194f0a18b2b3f1b16744a232ed855690/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/e07e114cb47d0c60a85ca2367f8a128b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/e07e114cb47d0c60a85ca2367f8a128b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/6f85139386be3cfc4daa1366b8257245/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hassan/.gradle/caches/transforms-2/files-2.1/6f85139386be3cfc4daa1366b8257245/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hassan/Desktop/Ucheed/matc-react-native/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from [:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-95
+	android:name
+		ADDED from [:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-92
+uses-permission#com.huawei.systemmanager.permission.ACCESS_INTERFACE
+ADDED from [:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-92
+	android:name
+		ADDED from [:react-native-platform] /home/hassan/Desktop/Ucheed/matc-react-native/node_modules/react-native-platform/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-89

@@ -6,7 +6,7 @@ import {useSelector} from 'react-redux';
 export default function OrganizationID() {
   const [showMenu, setShowMenu] = useState(false);
   const [userData] = useState(useSelector(state => state.usr.userData));
-  console.log("ussssssssseeerrr",userData)
+  // console.log("ussssssssseeerrr",userData)
   return (
     <>
       <View style={{display: showMenu ? 'flex' : 'none'}}>
